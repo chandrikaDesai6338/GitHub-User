@@ -1,0 +1,7 @@
+Instructions to deploy
+
+	1) Please copy the .apk file in the device and install it like a normal application.
+	2) You can install it using command line through adb 
+		a. save .apk file in PC
+		b. Navigate to the folder and open command prompt there.(shift + right click).
+		c. command : adb install "GitHub User.apk"
